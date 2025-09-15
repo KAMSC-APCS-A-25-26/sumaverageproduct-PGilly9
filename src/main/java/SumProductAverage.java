@@ -22,10 +22,8 @@
 //PEOPLE I HELPED       :
 //PEOPLE WHO HELPED ME  :   Mr. Houtrouw
 
-
-package GillilandParkerProject2223;
 import java.util.Scanner;
-public class GillilandParkerProject2223
+public class SumProductAverage
 {
     //-----------------------------------------------------------------
     // Sum and product of two numbers
